@@ -34,8 +34,8 @@ Ensure that you have the necessary input image in the specified path before runn
 ## Output
 
 The script will process the input image and save the output image with detected objects highlighted. Below are some sample output images:
-##image 1:
+## image 1:
 ![Output Image 1](images/output1.png)
-##image 2:
+## image 2:
 ![Output Image 2](images/output2.png)
 
